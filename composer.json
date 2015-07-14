@@ -1,0 +1,11 @@
+{
+	"require": {
+      "opauth/opauth": "1.0.*@dev",
+      "opauth/facebook": "1.0.*@dev",
+      "opauth/github": "1.0.*@dev",
+      "opauth/twitter": "1.0.*@dev",
+      "opauth/google": "1.0.*@dev"
+	},
+	"minimum-stability" : "dev",
+	"prefer-stable": true
+}

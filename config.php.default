@@ -1,0 +1,10 @@
+<?php
+$config = [
+    'Strategy' => [
+        'Google' => [
+            'client_id' => '790499350980-dbb4o9ruoln4aiipoma8dak0b6ktkvn6.apps.googleusercontent.com',
+            'client_secret' => 'rNYQxSu_cGoH1vi6XOYb8Hbf'
+        ]
+    ],
+    'path' => '/opauth.php/'
+];
